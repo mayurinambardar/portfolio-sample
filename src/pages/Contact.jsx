@@ -9,8 +9,8 @@ const Contact = () => {
       <div className='text-center max-w-4xl mx-auto'>
 
         <h1 className='
-          text-4xl
-          md:text-5xl
+          text-2xl
+          md:text-3xl
           uppercase
           text-[#a67c37]
           font-light
@@ -223,7 +223,7 @@ const Contact = () => {
           <div className='mt-10'>
 
             <h3 className='
-              text-2xl
+              text-xl
               text-[#a67c37]
               mb-4
               font-medium
