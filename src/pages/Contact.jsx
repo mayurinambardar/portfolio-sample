@@ -250,7 +250,7 @@ const Contact = () => {
             '>
 
               <img
-                src="./a.jpg"
+                src="images/a.jpg"
                 alt=""
                 className='
                   w-full
