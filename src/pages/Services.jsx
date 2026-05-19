@@ -18,7 +18,7 @@ const Services = () => {
 
   {
     title: "Commercial Planning",
-    image: "/images/a.jpg",
+    image: "/portfolio-sample/images/a.jpg",
     description:
       "Modern commercial environments designed with a focus on functionality, brand identity, and spatial efficiency."
   },
