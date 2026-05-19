@@ -93,7 +93,7 @@ Please change the parent <Route path="${e}"> to <Route path="${e===`/`?`*`:`${e}
   lg:grid-cols-3\r
   gap-6\r
   p-6\r
-`,children:[`/images/a.jpg`,`/images/a.jpg`,`/images/a.jpg`,`/images/a.jpg`,`/images/a.jpg`,`/images/a.jpg`,`/images/a.jpg`,`/images/a.jpg`,`/images/a.jpg`].map((e,t)=>(0,M.jsx)(`div`,{className:`overflow-hidden rounded-2xl`,children:(0,M.jsx)(`img`,{src:e,alt:``,className:`\r
+`,children:[`/portfolio-sample/images/a.jpg`,`/portfolio-sample/images/a.jpg`,`/portfolio-sample/images/a.jpg`,`/portfolio-sample/images/a.jpg`,`/portfolio-sample/images/a.jpg`,`/portfolio-sample/images/a.jpg`,`/portfolio-sample/images/a.jpg`,`/portfolio-sample/images/a.jpg`,`/portfolio-sample/images/a.jpg`].map((e,t)=>(0,M.jsx)(`div`,{className:`overflow-hidden rounded-2xl`,children:(0,M.jsx)(`img`,{src:e,alt:``,className:`\r
             w-full\r
             h-75\r
             object-cover\r
@@ -128,7 +128,7 @@ Please change the parent <Route path="${e}"> to <Route path="${e===`/`?`*`:`${e}
       max-w-3xl\r
       mx-auto\r
       \r
-    `,children:`Lorem ipsum dolor sit amet consectetur adipisicing elit. Eligendi enim quasi repellendus nostrum, quo eveniet et minima ipsum voluptatibus sunt natus placeat tempora hic obcaecati tempore vitae eos ratione nisi.`})]})}),(0,M.jsx)(`div`,{className:`px-6 md:px-12 lg:px-20 py-16 space-y-20`,children:[{title:`Industrial Planning`,image:`/images/a.jpg`,description:`We create functional and efficient industrial spaces that balance operational performance with modern architectural aesthetics.`},{title:`Residential Planning`,image:`/images/a.jpg`,description:`Thoughtfully designed residential spaces crafted to enhance comfort, simplicity, and everyday living experiences.`},{title:`Commercial Planning`,image:`/images/a.jpg`,description:`Modern commercial environments designed with a focus on functionality, brand identity, and spatial efficiency.`},{title:`Institutional Planning`,image:`/images/a.jpg`,description:`Purpose-driven institutional spaces that encourage learning, interaction, and long-term usability.`}].map((e,t)=>(0,M.jsxs)(`div`,{className:`
+    `,children:`Lorem ipsum dolor sit amet consectetur adipisicing elit. Eligendi enim quasi repellendus nostrum, quo eveniet et minima ipsum voluptatibus sunt natus placeat tempora hic obcaecati tempore vitae eos ratione nisi.`})]})}),(0,M.jsx)(`div`,{className:`px-6 md:px-12 lg:px-20 py-16 space-y-20`,children:[{title:`Industrial Planning`,image:`/portfolio-sample/images/a.jpg`,description:`We create functional and efficient industrial spaces that balance operational performance with modern architectural aesthetics.`},{title:`Residential Planning`,image:`/portfolio-sample/images/a.jpg`,description:`Thoughtfully designed residential spaces crafted to enhance comfort, simplicity, and everyday living experiences.`},{title:`Commercial Planning`,image:`/images/a.jpg`,description:`Modern commercial environments designed with a focus on functionality, brand identity, and spatial efficiency.`},{title:`Institutional Planning`,image:`/portfolio-sample/images/a.jpg`,description:`Purpose-driven institutional spaces that encourage learning, interaction, and long-term usability.`}].map((e,t)=>(0,M.jsxs)(`div`,{className:`
           flex
           flex-col
           ${t%2==0?`md:flex-row`:`md:flex-row-reverse`}
