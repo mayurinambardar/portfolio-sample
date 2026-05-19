@@ -4,14 +4,14 @@ const Services = () => {
   const services = [
   {
     title: "Industrial Planning",
-    image: "/images/a.jpg",
+    image: "/portfolio-sample/images/a.jpg",
     description:
       "We create functional and efficient industrial spaces that balance operational performance with modern architectural aesthetics."
   },
 
   {
     title: "Residential Planning",
-    image: "/images/a.jpg",
+    image: "/portfolio-sample/images/a.jpg",
     description:
       "Thoughtfully designed residential spaces crafted to enhance comfort, simplicity, and everyday living experiences."
   },
@@ -25,7 +25,7 @@ const Services = () => {
 
   {
     title: "Institutional Planning",
-    image: "/images/a.jpg",
+    image: "/portfolio-sample/images/a.jpg",
     description:
       "Purpose-driven institutional spaces that encourage learning, interaction, and long-term usability."
   }

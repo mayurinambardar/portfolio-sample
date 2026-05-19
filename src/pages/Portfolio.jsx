@@ -2,15 +2,15 @@ import React from 'react'
 
 const Portfolio = () => {
   const images = [
-  "/images/a.jpg",
-  "/images/a.jpg",
-  "/images/a.jpg",
-  "/images/a.jpg",
-  "/images/a.jpg",
-  "/images/a.jpg",
-  "/images/a.jpg",
-  "/images/a.jpg",
-  "/images/a.jpg",
+  "/portfolio-sample/images/a.jpg",
+  "/portfolio-sample/images/a.jpg",
+  "/portfolio-sample/images/a.jpg",
+  "/portfolio-sample/images/a.jpg",
+  "/portfolio-sample/images/a.jpg",
+  "/portfolio-sample/images/a.jpg",
+  "/portfolio-sample/images/a.jpg",
+  "/portfolio-sample/images/a.jpg",
+  "/portfolio-sample/images/a.jpg",
 ]
   return (
     <div className=''>
